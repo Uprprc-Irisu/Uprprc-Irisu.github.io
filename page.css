@@ -1,4 +1,7 @@
 @charset"utf-8";
 .01{
-  background-image: url("https://github.com/Uprprc-Irisu/Uprprc-Irisu.github.io/blob/main/01.png");
+  background: url("https://github.com/Uprprc-Irisu/Uprprc-Irisu.github.io/blob/main/01.png");
+   background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
 }
